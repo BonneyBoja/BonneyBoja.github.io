@@ -14,7 +14,7 @@ timezone: Nairobi,Kenya
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Bonney Omondi # the main title
+title: Bonney Ochieng Omondi # the main title
 
 tagline: Data Scientist|AI|ML|DP |Data Analyst
 
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/bonney.jpg
+avatar: "/assets/bonney.jpg"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
