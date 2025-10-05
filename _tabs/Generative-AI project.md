@@ -1,5 +1,5 @@
 ---
-title: Generative AI
+title: Generative-AI PROJECT
 icon: fas fa-brain
 order: 3
 ---
