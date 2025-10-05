@@ -13,12 +13,3 @@ I enjoy working with data — from cleaning and transforming it, to building mac
 📚 I’m continuously learning, building projects, and sharing knowledge in the community.
 🚀 My long-term goal is to contribute to advancing AI solutions that are ethical, scalable, and beneficial for society.
 
-Explore my [Data and AI Projects](./data-ai-projects) and [Generative AI](./generative-aiproject) work to see what I’ve been building.
-
-Feel free to connect with me:
-- [GitHub](https://github.com/BonneyBoja)
-- [Email](mailto:ochiengbonn2018@gmail.com)
-
----
-
-Thanks for visiting my site
