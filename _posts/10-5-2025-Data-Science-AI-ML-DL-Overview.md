@@ -74,7 +74,7 @@ Deep Learning (DL), a subset of ML, mimics how the human brain processes informa
 ---
 
 ### **Ethical Hacking — Why It Matters**
-Ethical hacking (also known as penetration testing or white-hat hacking) helps organizations find and fix security weaknesses before malicious actors can exploit them. In an era where data and AI systems are prime targets, ethical hacking is crucial to protect assets, privacy, and trust.
+Ethical hacking helps organizations find and fix security weaknesses before malicious actors can exploit them. In an era where data and AI systems are prime targets, ethical hacking is crucial to protect assets, privacy, and trust.
 
 **Core Objectives:**
 - 🔐 **Vulnerability Discovery:** Identify security gaps in applications, systems, and networks.  
