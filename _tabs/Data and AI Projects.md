@@ -4,8 +4,6 @@ icon: fas fa-robot
 order: 2
 ---
 
-# Data and AI Projects
-
 ## Project 1: Web Scrapping
 This project involves building a web scraping tool to automatically extract data from websites using Python libraries such as BeautifulSoup, Requests, and Selenium.  
 [pdf link](https://github.com/user-attachments/files/22705667/Web.Scrapping.and.Data.Handling.pdf)
