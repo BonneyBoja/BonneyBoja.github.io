@@ -2,9 +2,7 @@
 title:About
 icon:fas fa-user
 ---
-👋 Hi, I'm Bonney Ochieng Omondi
-
-Data Scientist | AI & ML Enthusiast | Nairobi, Kenya
+Data Scientist | AI & ML Enthusiast | 
 
 I’m a passionate Data, AI, ML, and Deep Learning enthusiast who loves exploring how intelligent systems can solve real-world problems.
 I enjoy working with data — from cleaning and transforming it, to building machine learning models and experimenting with deep learning architectures.
