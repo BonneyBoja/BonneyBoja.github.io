@@ -3,6 +3,24 @@
 icon: fas fa-info-circle
 order: 4
 ---
+# Welcome!
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+![Bonney's Avatar](/assets/bonney.jpg){: width="120" style="border-radius: 50%;" }
+
+Hi, I'm **Bonney Ochieng Omondi** — a Data Scientist and AI/ML Enthusiast based in Nairobi, Kenya.
+
+I am passionate about:
+- Machine Learning & Deep Learning
+- Data Analytics & Visualization
+- Generative AI
+- Building intelligent solutions for real-world problems
+
+Explore my [Data and AI Projects](./data-ai-projects) and [Generative AI](./generative-ai) work to see what I’ve been building.
+
+Feel free to connect with me:
+- [GitHub](https://github.com/BonneyBoja)
+- [Email](mailto:ochiengbonn2018@gmail.com)
+
+---
+
+Thanks for visiting my site!
