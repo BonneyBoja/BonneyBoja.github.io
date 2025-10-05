@@ -4,9 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 # Welcome!
-
-![Bonney's Avatar](/assets/bonney.jpg){: width="120" style="border-radius: 50%;" }
-
 Hi, I'm **Bonney Ochieng Omondi** — a Data Scientist and AI/ML Enthusiast based in Nairobi, Kenya.
 
 I am passionate about:
