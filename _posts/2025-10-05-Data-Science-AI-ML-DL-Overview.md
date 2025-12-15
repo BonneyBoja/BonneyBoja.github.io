@@ -1,5 +1,5 @@
 ---
-title: "Building Practical AI Applications and Data"
+title: "Building Practical AI Applications"
 categories: [AI, Data Science, Machine Learning, Ethical Hacking]
 tags: [AI, ML, DL, Data Science, Ethical Hacking, Security]
 description: "Exploring how Data Science, AI, Machine Learning, Deep Learning, and Ethical Hacking shape modern intelligent systems."
